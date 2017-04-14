@@ -1,0 +1,560 @@
+0,-----,
+71,Absorb,A nutrient-draining attack. The user's<br>HP is restored by half the damage taken<br>by the target.
+51,Acid,The opposing team is attacked with a spray<br>of harsh acid. The acid may also lower<br>the targets' Sp. Def stats.
+151,Acid Armor,The user alters its cellular structure to<br>liquefy itself, sharply raising its<br>Defense stat.
+491,Acid Spray,The user spits fluid that works to melt<br>the target. This harshly reduces<br>the target's Sp. Def stat.
+512,Acrobatics,The user nimbly strikes the target.<br>If the user is not holding an item,<br>this attack inflicts massive damage.
+367,Acupressure,The user applies pressure to stress<br>points, sharply boosting one of<br>its stats.
+332,Aerial Ace,The user confounds the target with speed,<br>then slashes.<br>The attack lands without fail.
+177,Aeroblast,A vortex of air is shot at the target to<br>inflict damage.<br>Critical hits land more easily.
+495,After You,The user helps the target and makes it<br>use its move right after the user.
+97,Agility,The user relaxes and lightens its body to<br>move faster. It sharply boosts<br>the Speed stat.
+314,Air Cutter,The user launches razor-like wind to<br>slash the opposing team.<br>Critical hits land more easily.
+403,Air Slash,The user attacks with a blade of air that<br>slices even the sky. It may also make the<br>target flinch.
+502,Ally Switch,The user teleports using a strange power<br>and switches its place with one of<br>its allies.
+133,Amnesia,The user temporarily empties its mind to<br>forget its concerns.<br>It sharply raises the user's Sp. Def stat.
+246,AncientPower,The user attacks with a prehistoric power.<br>It may also raise all the user's stats<br>at once.
+453,Aqua Jet,The user lunges at the target at a speed<br>that makes it almost invisible. It is sure<br>to strike first.
+392,Aqua Ring,The user envelops itself in a veil made<br>of water. It regains some HP on<br>every turn.
+401,Aqua Tail,The user attacks by swinging its tail as if<br>it were a vicious wave in a raging storm.
+292,Arm Thrust,The user looses a flurry of open-palmed<br>arm thrusts that hit two to five times in<br>a row.
+312,Aromatherapy,The user releases a soothing scent that<br>heals all status problems affecting<br>the user's party.
+274,Assist,The user hurriedly and randomly uses a<br>move among those known by other<br>Pokémon in the party.
+372,Assurance,If the target has already taken some<br>damage in the same turn, this attack's<br>power is doubled.
+310,Astonish,The user attacks the target while shouting<br>in a startling fashion.<br>It may also make the target flinch.
+454,Attack Order,The user calls out its underlings to<br>pummel the target.<br>Critical hits land more easily.
+213,Attract,If it is the opposite gender of the user,<br>the target becomes infatuated and less<br>likely to attack.
+396,Aura Sphere,The user looses a blast of aura power<br>from deep within its body at the target.<br>This move is certain to hit.
+62,Aurora Beam,The target is hit with a rainbow-colored<br>beam. This may also lower the target's<br>Attack stat.
+475,Autotomize,The user sheds part of its body<br>to make itself lighter and sharply<br>raise its Speed stat.
+419,Avalanche,An attack move that inflicts double the<br>damage if the user has been hurt by the<br>target in the same turn.
+140,Barrage,Round objects are hurled at the target<br>to strike two to five times in a row.
+112,Barrier,The user throws up a sturdy wall that<br>sharply raises its Defense stat.
+226,Baton Pass,The user switches places with a party<br>Pokémon in waiting, passing along any<br>stat changes.
+251,Beat Up,The user gets all party Pokémon to attack<br>the target. The more party Pokémon,<br>the greater the number of attacks.
+187,Belly Drum,The user maximizes its Attack stat in<br>exchange for HP equal to half its max HP.
+516,Bestow,The user passes its held item to the<br>target when the target isn't holding<br>an item.
+117,Bide,The user endures attacks for two<br>turns, then strikes back to cause<br>double the damage taken.
+20,Bind,Things such as long bodies or tentacles<br>are used to bind and squeeze<br>the target for four to five turns.
+44,Bite,The target is bitten<br>with viciously sharp fangs.<br>It may make the target flinch.
+307,Blast Burn,The target is razed by a fiery explosion.<br>The user must rest on the<br>next turn, however.
+299,Blaze Kick,The user launches a kick that lands a<br>critical hit more easily.<br>It may also leave the target with a burn.
+59,Blizzard,A howling blizzard is summoned to strike<br>the opposing team. It may also freeze<br>them solid.
+335,Block,The user blocks the target's way with arms<br>spread wide to prevent escape.
+551,Blue Flare,The user attacks by engulfing the target<br>in an intense, yet beautiful
+34,Body Slam,The user drops onto the target<br>with its full body weight. It may also<br>leave the target with paralysis.
+550,Bolt Strike,The user charges its target, surrounding<br>itself with a great amount of electricity.<br>It may leave the target with paralysis.
+125,Bone Club,The user clubs the target with a bone.<br>It may also make the target flinch.
+198,Bone Rush,The user strikes the target with a hard<br>bone two to five times in a row.
+155,Bonemerang,The user throws the bone it holds. The<br>bone loops to hit the target twice,<br>coming and going.
+340,Bounce,The user bounces up high, then drops on<br>the target on the second turn. It may<br>also leave the target with paralysis.
+413,Brave Bird,The user tucks in its wings and charges<br>from a low altitude.<br>The user also takes serious damage.
+280,Brick Break,The user attacks with a swift chop. It<br>can also break any barrier such as Light<br>Screen and Reflect.
+362,Brine,If the target's HP is down to about half,<br>this attack will hit with double<br>the power.
+145,Bubble,A spray of countless bubbles is jetted at<br>the opposing team. It may also lower the<br>targets' Speed stats.
+61,BubbleBeam,A spray of bubbles is forcefully ejected<br>at the opposing team. It may also lower<br>their Speed stats.
+450,Bug Bite,The user bites the target. If the target<br>is holding a Berry, the user eats it and<br>gains its effect.
+405,Bug Buzz,The user vibrates its wings to generate a<br>damaging sound wave. It may also lower<br>the target's Sp. Def stat.
+339,Bulk Up,The user tenses its muscles to bulk up<br>its body, boosting both its Attack and<br>Defense stats.
+523,Bulldoze,The user stomps down on the ground<br>and attacks everything in the area. Hit<br>Pokémon's Speed stat is reduced.
+418,Bullet Punch,The user strikes the target<br>with tough punches as fast as bullets.<br>This move always goes first.
+331,Bullet Seed,The user forcefully shoots seeds at the<br>target. Two to five seeds are shot in<br>rapid succession.
+347,Calm Mind,The user quietly focuses its mind and<br>calms its spirit to raise its Sp. Atk and<br>Sp. Def stats.
+293,Camouflage,The user's type is changed depending on<br>its environment, such as at water's edge
+445,Captivate,If it is the opposite gender of the user,<br>the target is charmed into harshly<br>lowering its Sp. Atk stat.
+268,Charge,The user boosts the power of the Electric<br>move it uses on the next turn. It also<br>raises the user's Sp. Def stat.
+451,Charge Beam,The user attacks with an electric<br>charge. The user may use any remaining<br>electricity to raise its Sp. Atk stat.
+204,Charm,The user gazes at the target rather<br>charmingly, making it less wary.<br>The target's Attack is harshly lowered.
+448,Chatter,The user attacks using a sound wave<br>based on words it has learned.<br>It may also confuse the target.
+498,Chip Away,Looking for an opening, the user strikes<br>continually. The target's stat changes<br>don't affect this attack's damage.
+509,Circle Throw,The user throws the target and drags out<br>another Pokémon in its party.<br>In the wild, the battle ends.
+128,Clamp,The target is clamped and squeezed by<br>the user's very thick and sturdy shell for<br>four to five turns.
+499,Clear Smog,The user attacks by throwing a clump of<br>special mud. All status changes are<br>returned to normal.
+370,Close Combat,The user fights the target up close<br>without guarding itself. It also cuts<br>the user's Defense and Sp. Def.
+489,Coil,The user coils up and concentrates.<br>This raises its Attack and Defense stats<br>as well as its accuracy.
+4,Comet Punch,The target is hit with a flurry of punches<br>that strike two to five times in a row.
+109,Confuse Ray,The target is exposed to a sinister<br>ray that triggers confusion.
+93,Confusion,The target is hit by a weak telekinetic<br>force. It may also leave the<br>target confused.
+132,Constrict,The target is attacked with long, creeping<br>tentacles or vines.<br>It may also lower the target's Speed stat.
+160,Conversion,The user changes its type to become the<br>same type as one of its moves.
+176,Conversion 2,The user changes its type to make itself<br>resistant to the type of the attack the<br>opponent used last.
+383,Copycat,The user mimics the move used immediately<br>before it. The move fails if no other move<br>has been used yet.
+322,Cosmic Power,The user absorbs a mystical power from<br>space to raise its Defense and<br>Sp. Def stats.
+538,Cotton Guard,The user protects itself by wrapping<br>its body in soft cotton, drastically<br>raising the user's Defense stat.
+178,Cotton Spore,The user releases cotton-like spores<br>that cling to the target,<br>harshly reducing its Speed stat.
+68,Counter,A retaliation move that counters any<br>physical attack, inflicting double the<br>damage taken.
+343,Covet,The user endearingly approaches<br>the target, then steals the target's<br>held item.
+152,Crabhammer,The target is hammered with a large pincer.<br>Critical hits land more easily.
+238,Cross Chop,The user delivers a double chop with its<br>forearms crossed.<br>Critical hits land more easily.
+440,Cross Poison,A slashing attack with a poisonous blade<br>that may also leave the target poisoned.<br>Critical hits land more easily.
+242,Crunch,The user crunches up the target<br>with sharp fangs. It may also lower<br>the target's Defense stat.
+306,Crush Claw,The user slashes the target with hard<br>and sharp claws.<br>It may also lower the target's Defense.
+462,Crush Grip,The target is crushed with great force.<br>The attack is more powerful the more<br>HP the target has left.
+174,Curse,A move that works differently for the<br>Ghost type than for all other types.
+15,Cut,The target is cut with a scythe or a claw.<br>It can also be used to cut down<br>thin trees.
+399,Dark Pulse,The user releases a horrible aura imbued<br>with dark thoughts.<br>It may also make the target flinch.
+464,Dark Void,Opposing Pokémon are dragged into<br>a world of total darkness that makes<br>them sleep.
+455,Defend Order,The user calls out its underlings to<br>shield its body, raising its Defense<br>and Sp. Def stats.
+111,Defense Curl,The user curls up to conceal weak spots<br>and raise its Defense stat.
+432,Defog,A strong wind blows away the target's<br>obstacles such as Reflect or Light Screen.<br>It also lowers the target's evasiveness.
+194,Destiny Bond,When this move is used, if the user faints
+197,Detect,It enables the user to evade all attacks.<br>Its chance of failing rises if it is used<br>in succession.
+91,Dig,The user burrows, then attacks<br>on the second turn.<br>It can also be used to exit dungeons.
+50,Disable,For four turns, this move prevents the<br>target from using the move it last used.
+435,Discharge,A flare of electricity is loosed to strike<br>the area around the user.<br>It may also cause paralysis.
+291,Dive,Diving on the first turn, the user floats<br>up and attacks on the second turn.<br>It can be used to dive deep in the ocean.
+146,Dizzy Punch,The target is hit with rhythmically<br>launched punches that may also<br>leave it confused.
+353,Doom Desire,Two turns after this move is used, the<br>user blasts the target with a<br>concentrated bundle of light.
+458,Double Hit,The user slams the target with a long tail,<br>vines
+24,Double Kick,The target is quickly kicked twice in<br>succession using both feet.
+104,Double Team,By moving rapidly, the user makes illusory<br>copies of itself to raise its evasiveness.
+38,Double-Edge,A reckless, life-risking tackle.<br>It also damages the user by a fairly large<br>amount
+3,DoubleSlap,The target is slapped repeatedly, back<br>and forth
+434,Draco Meteor,Comets are summoned down from the sky<br>onto the target. The attack's recoil<br>harshly reduces the user's Sp. Atk stat.
+337,Dragon Claw,The user slashes the target with huge,<br>sharp claws.
+349,Dragon Dance,The user vigorously performs a mystic,<br>powerful dance that boosts its Attack and<br>Speed stats.
+406,Dragon Pulse,The target is attacked with a shock wave<br>generated by the user's gaping mouth.
+82,Dragon Rage,This attack hits the target with a shock<br>wave of pure rage. This attack always<br>inflicts 40 HP damage.
+407,Dragon Rush,The user tackles the target while<br>exhibiting overwhelming menace.<br>It may also make the target flinch.
+525,Dragon Tail,The user knocks away the target and<br>drags out another Pokémon in its party.<br>In the wild, the battle ends.
+225,DragonBreath,The user exhales a mighty gust that<br>inflicts damage. It may also leave the<br>target with paralysis.
+409,Drain Punch,An energy-draining punch. The user's<br>HP is restored by half the damage taken<br>by the target.
+138,Dream Eater,The user eats the dreams of a sleeping<br>target. It absorbs half the damage<br>caused to heal the user's HP.
+65,Drill Peck,A corkscrewing attack with the<br>sharp beak acting as a drill.
+529,Drill Run,The user crashes into its target while<br>rotating its body like a drill.<br>Critical hits land more easily.
+530,Dual Chop,The user attacks its target by hitting<br>it with brutal strikes.<br>The target is hit twice in a row.
+223,DynamicPunch,The user punches the target with full,<br>concentrated power.<br>It confuses the target if it hits.
+414,Earth Power,The user makes the ground under<br>the target erupt with power.<br>It may also lower the target's Sp. Def.
+89,Earthquake,The user sets off an earthquake that<br>strikes those around it.
+497,Echoed Voice,The user attacks the target with an<br>echoing voice. If this move is used<br>every turn, it does greater damage.
+121,Egg Bomb,A large egg is hurled at the target<br>with maximum force to inflict damage.
+486,Electro Ball,The user hurls an electric orb<br>at the target. The faster the user is<br>than the target, the greater the damage.
+527,Electroweb,The user captures and attacks opposing<br>Pokémon by using an electric net. It<br>reduces the targets' Speed stat.
+373,Embargo,It prevents the target from using its held<br>item. Its Trainer is also prevented from<br>using items on it.
+52,Ember,The target is attacked with small flames.<br>It may also leave the target with a burn.
+227,Encore,The user compels the target<br>to keep using only the move<br>it last used for three turns.
+283,Endeavor,An attack move that cuts down the<br>target's HP to equal the user's HP.
+203,Endure,The user endures any attack with at least<br>1 HP. Its chance of failing rises if it is<br>used in succession.
+412,Energy Ball,The user draws power from nature and<br>fires it at the target.<br>It may also lower the target's Sp. Def.
+494,Entrainment,The user dances with an odd rhythm that<br>compels the target to mimic it, making the<br>target's Ability the same as the user's.
+284,Eruption,The user attacks the opposing team with<br>explosive fury. The lower the user's HP,<br>the less powerful this attack becomes.
+153,Explosion,The user explodes to inflict damage on<br>those around it.<br>The user faints upon using this move.
+326,Extrasensory,The user attacks with an odd,<br>unseeable power.<br>It may also make the target flinch.
+245,ExtremeSpeed,The user charges the target at blinding<br>speed. This attack always goes<br>before any other move.
+263,Facade,An attack move that doubles its power if<br>the user is poisoned, burned
+185,Faint Attack,The user approaches the target<br>disarmingly, then throws a sucker punch.<br>It hits without fail.
+252,Fake Out,An attack that hits first and makes the<br>target flinch. It only works the first turn<br>the user is in battle.
+313,Fake Tears,The user feigns crying to fluster<br>the target, harshly lowering its<br>Sp. Def stat.
+206,False Swipe,A restrained attack that prevents the<br>target from fainting.<br>The target is left with at least 1 HP.
+297,FeatherDance,The user covers the target's body with a<br>mass of down that harshly lowers its<br>Attack stat.
+364,Feint,An attack that hits a target using<br>Protect or Detect. It also lifts<br>the effects of those moves.
+552,Fiery Dance,Cloaked in flames, the user dances<br>and flaps its wings. It may also<br>raise the user's Sp. Atk stat.
+515,Final Gambit,The user risks everything to attack its<br>target. The user faints but does damage<br>equal to the user's HP.
+126,Fire Blast,The target is attacked with an intense<br>blast of all-consuming fire.<br>It may also leave the target with a burn.
+424,Fire Fang,The user bites with flame-cloaked fangs.<br>It may also make the target flinch or leave<br>it burned.
+519,Fire Pledge,A column of fire hits opposing Pokémon.<br>When used with its Grass equivalent, its<br>damage increases into a vast sea of fire.
+7,Fire Punch,The target is punched with a fiery fist.<br>It may also leave the target with a burn.
+83,Fire Spin,The target becomes trapped within a<br>fierce vortex of fire that rages for four<br>to five turns.
+90,Fissure,The user opens up a fissure in the ground<br>and drops the target in.<br>The target instantly faints if it hits.
+175,Flail,The user flails about aimlessly to attack.<br>It becomes more powerful the less HP<br>the user has.
+481,Flame Burst,The user attacks the target with a<br>bursting flame. The bursting flame damages<br>Pokémon next to the target as well.
+488,Flame Charge,The user cloaks itself with flame and<br>attacks. Building up more power,<br>it raises the user's Speed stat.
+172,Flame Wheel,The user cloaks itself in fire and<br>charges at the target.<br>It may also leave the target with a burn.
+53,Flamethrower,The target is scorched with an intense<br>blast of fire. It may also leave the target<br>with a burn.
+394,Flare Blitz,The user cloaks itself in fire and charges<br>at the target. The user sustains serious<br>damage and may leave the target burned.
+148,Flash,The user flashes a bright light that cuts<br>the target's accuracy.<br>It can also be used to illuminate caves.
+430,Flash Cannon,The user gathers all its light energy and<br>releases it at once. It may also lower the<br>target's Sp. Def stat.
+260,Flatter,Flattery is used to confuse the target.<br>However, it also raises the target's<br>Sp. Atk stat.
+374,Fling,The user flings its held item at the target<br>to attack. Its power and effects depend<br>on the item.
+19,Fly,The user soars, then strikes its target<br>on the second turn. It can also be<br>used for flying to any familiar town.
+411,Focus Blast,The user heightens its mental focus and<br>unleashes its power.<br>It may also lower the target's Sp. Def.
+116,Focus Energy,The user takes a deep breath and<br>focuses so that critical hits land<br>more easily.
+264,Focus Punch,The user focuses its mind before<br>launching a punch. It will fail if the user<br>is hit before it is used.
+266,Follow Me,The user draws attention to itself,<br>making all targets take aim<br>only at the user.
+395,Force Palm,The target is attacked with a shock wave.<br>It may also leave the target<br>with paralysis.
+193,Foresight,Enables a Ghost-type target to be hit by<br>Normal- and Fighting-type attacks. It also<br>enables an evasive target to be hit.
+492,Foul Play,The user turns the target's power<br>against it. The higher the target's<br>Attack stat, the greater the damage.
+553,Freeze Shock,On the second turn, the user hits the<br>target with electrically charged ice.<br>It may leave the target with paralysis.
+338,Frenzy Plant,The user slams the target with<br>an enormous tree.<br>The user can't move on the next turn.
+524,Frost Breath,The user blows a cold breath on the<br>target. This attack always results in<br>a critical hit.
+218,Frustration,A full-power attack that grows more<br>powerful the less the user likes<br>its Trainer.
+31,Fury Attack,The target is jabbed repeatedly with a<br>horn or beak two to five times in a row.
+210,Fury Cutter,The target is slashed with scythes or<br>claws. Its power increases if it hits<br>in succession.
+154,Fury Swipes,The target is raked with sharp claws or<br>scythes for two to five times in<br>quick succession.
+559,Fusion Bolt,The user throws down a giant thunderbolt.<br>This attack does greater damage<br>when influenced by an enormous flame.
+558,Fusion Flare,The user brings down a giant flame.<br>This attack does greater damage when<br>influenced by an enormous thunderbolt.
+248,Future Sight,Two turns after this move is used,<br>a hunk of psychic energy<br>attacks the target.
+380,Gastro Acid,The user hurls up its stomach acids on<br>the target. The fluid eliminates the effect<br>of the target's Ability.
+544,Gear Grind,The user attacks by throwing<br>two steel gears at its target.
+202,Giga Drain,A nutrient-draining attack. The user's<br>HP is restored by half the damage<br>taken by the target.
+416,Giga Impact,The user charges at the target using<br>every bit of its power.<br>The user must rest on the next turn.
+549,Glaciate,The user attacks by blowing freezing cold<br>air at opposing Pokémon. This attack<br>reduces the targets' Speed stat.
+137,Glare,The user intimidates the target with the<br>pattern on its belly to cause paralysis.
+447,Grass Knot,The user snares the target with grass and<br>trips it. The heavier the target,<br>the greater the damage.
+520,Grass Pledge,A column of grass hits opposing Pokémon.<br>When used with its water equivalent, its<br>damage increases into a vast swamp.
+320,GrassWhistle,The user plays a pleasant melody that<br>lulls the target into a deep sleep.
+356,Gravity,Gravity is intensified for five turns,<br>making moves involving flying unusable<br>and negating Levitate.
+45,Growl,The user growls in an endearing way,<br>making the opposing team less wary.<br>The foes' Attack stats are lowered.
+74,Growth,The user's body grows all at once,<br>raising the Attack and Sp. Atk stats.
+288,Grudge,If the user faints, the user's grudge<br>fully depletes the PP of the opponent's<br>move that knocked it out.
+470,Guard Split,The user employs its psychic power to<br>average its Defense and Sp. Def stats<br>with those of its target's.
+385,Guard Swap,The user employs its psychic power to<br>switch changes to its Defense and<br>Sp. Def with the target.
+12,Guillotine,A vicious, tearing attack with big pincers.<br>The target will faint instantly<br>if this attack hits.
+441,Gunk Shot,The user shoots filthy garbage<br>at the target to attack.<br>It may also poison the target.
+16,Gust,A gust of wind is whipped up by wings and<br>launched at the target to inflict damage.
+360,Gyro Ball,The user tackles the target with a<br>high-speed spin. The slower the<br>user, the greater the damage.
+258,Hail,The user summons a hailstorm lasting five<br>turns. It damages all Pokémon except the<br>Ice type.
+359,Hammer Arm,The user swings and hits with its strong<br>and heavy fist.<br>It lowers the user's Speed, however.
+106,Harden,The user stiffens all the muscles in its<br>body to raise its Defense stat.
+114,Haze,The user creates a haze that eliminates<br>every stat change among all the Pokémon<br>engaged in battle.
+543,Head Charge,The user charges its head into its<br>target, using its powerful guard hair.<br>It also damages the user a little.
+457,Head Smash,The user attacks the target with a<br>hazardous, full-power headbutt.<br>The user also takes terrible damage.
+29,Headbutt,The user sticks out its head and attacks<br>by charging straight into the target.<br>It may also make the target flinch.
+215,Heal Bell,The user makes a soothing bell chime<br>to heal the status problems of all the<br>party Pokémon.
+377,Heal Block,For five turns, the user prevents the<br>opposing team from using any moves
+456,Heal Order,The user calls out its underlings to<br>heal it. The user regains up to half of its<br>max HP.
+505,Heal Pulse,The user emits a healing pulse which<br>restores the target's HP by up to<br>half of its max HP.
+361,Healing Wish,The user faints. In return, the Pokémon<br>taking its place will have its HP restored<br>and status cured.
+531,Heart Stamp,The user unleashes a vicious blow after<br>its cute act makes the target less wary.<br>It may also make the target flinch.
+391,Heart Swap,The user employs its psychic power to<br>switch stat changes with the target.
+535,Heat Crash,The user slams its target with its flame-<br>covered body. The more the user outweighs<br>the target, the greater the damage.
+257,Heat Wave,The user attacks by exhaling hot breath<br>on the opposing team. It may also leave<br>targets with a burn.
+484,Heavy Slam,The user slams into the target with its<br>heavy body. The more the user outweighs<br>the target, the greater its damage.
+270,Helping Hand,The user assists an ally by boosting<br>the power of its attack.
+506,Hex,This relentless attack does massive<br>damage to a target affected<br>by status problems.
+136,Hi Jump Kick,The target is attacked with a knee kick<br>from a jump. If it misses, the user is hurt<br>instead.
+237,Hidden Power,A unique attack that varies in type and<br>intensity depending on the Pokémon<br>using it.
+468,Hone Claws,The user sharpens its claws to<br>boost its Attack stat and accuracy.
+30,Horn Attack,The target is jabbed with a sharply<br>pointed horn to inflict damage.
+32,Horn Drill,The user stabs the target with a horn<br>that rotates like a drill.<br>If it hits, the target faints instantly.
+532,Horn Leech,The user drains the target's energy with<br>its horns. The user's HP is restored<br>by half the damage taken by the target.
+336,Howl,The user howls loudly to raise its spirit,<br>boosting its Attack stat.
+542,Hurricane,The user attacks by wrapping its opponent<br>in a fierce wind that flies up into the sky.<br>It may also confuse the target.
+308,Hydro Cannon,The target is hit with a watery blast.<br>The user must rest on the<br>next turn, however.
+56,Hydro Pump,The target is blasted by a huge volume<br>of water launched under great pressure.
+63,Hyper Beam,The target is attacked with a powerful<br>beam. The user must rest on the next<br>turn to regain its energy.
+158,Hyper Fang,The user bites hard on the target<br>with its sharp front fangs.<br>It may also make the target flinch.
+304,Hyper Voice,The user lets loose a horribly echoing<br>shout with the power to inflict damage.
+95,Hypnosis,The user employs hypnotic suggestion<br>to make the target fall into a deep sleep.
+301,Ice Ball,The user continually rolls into the target<br>over five turns. It becomes stronger<br>each time it hits.
+58,Ice Beam,The target is struck with an icy-cold<br>beam of energy.<br>It may also freeze the target solid.
+554,Ice Burn,On the second turn, an ultracold
+423,Ice Fang,The user bites with cold-infused fangs.<br>It may also make the target flinch or<br>leave it frozen.
+8,Ice Punch,The target is punched with an icy fist.<br>It may also leave the target frozen.
+420,Ice Shard,The user flash freezes chunks of<br>ice and hurls them at the target.<br>This move always goes first.
+556,Icicle Crash,The user attacks by harshly dropping<br>an icicle onto the target.<br>It may also make the target flinch.
+333,Icicle Spear,The user launches sharp icicles at the<br>target. It strikes two to five times in<br>a row.
+196,Icy Wind,The user attacks with a gust of<br>chilled air. It also reduces the targets'<br>Speed stat.
+286,Imprison,If the opponents know any move also known<br>by the user, the opponents are prevented<br>from using it.
+510,Incinerate,The user attacks the target with fire.<br>If the target is holding a Berry, the<br>Berry becomes burnt up and unusable.
+517,Inferno,The user attacks by engulfing the target<br>in an intense fire. It leaves the target<br>with a burn.
+275,Ingrain,The user lays roots that restore<br>its HP on every turn. Because it is<br>rooted, it can't switch out.
+334,Iron Defense,The user hardens its body's surface<br>like iron, sharply raising its<br>Defense stat.
+442,Iron Head,The user slams the target<br>with its steel-hard head.<br>It may also make the target flinch.
+231,Iron Tail,The target is slammed with a steel-hard<br>tail. It may also lower the target's<br>Defense stat.
+449,Judgment,The user releases countless shots of<br>light at the target. Its type varies with<br>the kind of Plate the user is holding.
+26,Jump Kick,The user jumps up high, then strikes<br>with a kick. If the kick misses
+2,Karate Chop,The target is attacked with a sharp chop.<br>Critical hits land more easily.
+134,Kinesis,The user distracts the target<br>by bending a spoon.<br>It lowers the target's accuracy.
+282,Knock Off,The user slaps down the target's<br>held item, preventing that item<br>from being used in the battle.
+387,Last Resort,This move can be used only after the user<br>has used all the other moves it knows<br>in the battle.
+436,Lava Plume,An inferno of scarlet flames torches<br>everything around the user. It may<br>leave targets with a burn.
+348,Leaf Blade,The user handles a sharp leaf like a<br>sword and attacks by cutting its target.<br>Critical hits land more easily.
+437,Leaf Storm,The user whips up a storm of leaves around<br>the target. The attack's recoil harshly<br>reduces the user's Sp. Atk stat.
+536,Leaf Tornado,The user attacks its target by<br>encircling it in sharp leaves. This attack<br>may also lower the target's accuracy.
+141,Leech Life,The user drains the target's blood.<br>The user's HP is restored by half the<br>damage taken by the target.
+73,Leech Seed,A seed is planted on the target. It steals<br>some HP from the target every turn.
+43,Leer,The opposing team gains an intimidating<br>leer with sharp eyes. The opposing team's<br>Defense stats are reduced.
+122,Lick,The target is licked with a long tongue,<br>causing damage. It may also leave<br>the target with paralysis.
+113,Light Screen,A wondrous wall of light is put up to<br>suppress damage from special attacks<br>for five turns.
+199,Lock-On,The user takes sure aim at the target.<br>It ensures the next attack does not fail<br>to hit the target.
+142,Lovely Kiss,With a scary face, the user tries to<br>force a kiss on the target. If it<br>succeeds
+67,Low Kick,A powerful low kick that makes the target<br>fall over. It inflicts greater damage on<br>heavier targets.
+490,Low Sweep,The user attacks the target's legs<br>swiftly, reducing the target's<br>Speed stat.
+381,Lucky Chant,The user chants an incantation toward<br>the sky, preventing opposing Pokémon<br>from landing critical hits.
+461,Lunar Dance,The user faints. In return, the Pokémon<br>taking its place will have its status and<br>HP fully restored.
+295,Luster Purge,The user lets loose a damaging burst<br>of light. It may also reduce the target's<br>Sp. Def stat.
+183,Mach Punch,The user throws a punch at blinding<br>speed. It is certain to strike first.
+277,Magic Coat,A barrier reflects back to the target<br>moves like Leech Seed and moves<br>that damage status.
+478,Magic Room,The user creates a bizarre area<br>in which Pokémon's held items<br>lose their effects for five turns.
+345,Magical Leaf,The user scatters curious leaves<br>that chase the target.<br>This attack will not miss.
+463,Magma Storm,The target becomes trapped<br>within a maelstrom of fire that rages<br>for four to five turns.
+443,Magnet Bomb,The user launches steel bombs that<br>stick to the target.<br>This attack will not miss.
+393,Magnet Rise,The user levitates using electrically<br>generated magnetism for five turns.
+222,Magnitude,The user looses a ground-shaking quake<br>affecting everyone around the user.<br>Its power varies.
+382,Me First,The user tries to cut ahead of the target<br>to steal and use the target's intended<br>move with greater power.
+212,Mean Look,The user pins the target with a dark,<br>arresting look.<br>The target becomes unable to flee.
+96,Meditate,The user meditates to awaken the power<br>deep within its body and raise its<br>Attack stat.
+72,Mega Drain,A nutrient-draining attack. The user's<br>HP is restored by half the damage taken<br>by the target.
+25,Mega Kick,The target is attacked by a kick launched<br>with muscle-packed power.
+5,Mega Punch,The target is slugged by a punch thrown<br>with muscle-packed power.
+224,Megahorn,Using its tough and impressive horn,<br>the user rams into the target<br>with no letup.
+262,Memento,The user faints when using this move.<br>In return, it harshly lowers the target's<br>Attack and Sp. Atk.
+368,Metal Burst,The user retaliates with much greater<br>power against the target<br>that last inflicted damage on it.
+232,Metal Claw,The target is raked with steel claws.<br>It may also raise the user's Attack stat.
+319,Metal Sound,A horrible sound like scraping metal<br>harshly reduces the target's<br>Sp. Def stat.
+309,Meteor Mash,The target is hit with a hard punch fired<br>like a meteor. It may also raise<br>the user's Attack.
+118,Metronome,The user waggles a finger and stimulates<br>its brain into randomly using nearly<br>any move.
+208,Milk Drink,The user restores its own HP<br>by up to half of its maximum HP.<br>May also be used in the field to heal HP.
+102,Mimic,The user copies the target's last move.<br>The move can be used during battle<br>until the Pokémon is switched out.
+170,Mind Reader,The user senses the target's movements<br>with its mind to ensure its next<br>attack does not miss the target.
+107,Minimize,The user compresses its body<br>to make itself look smaller,<br>which sharply raises its evasiveness.
+357,Miracle Eye,Enables a Dark-type target to be hit by<br>Psychic-type attacks. It also enables<br>an evasive target to be hit.
+243,Mirror Coat,A retaliation move that counters any<br>special attack, inflicting double the<br>damage taken.
+119,Mirror Move,The user counters the target by mimicking<br>the target's last move.
+429,Mirror Shot,The user looses a flash of energy at<br>the target from its polished body.<br>It may also lower the target's accuracy.
+54,Mist,The user cloaks its body with a white mist<br>that prevents any of its stats from being<br>cut for five turns.
+296,Mist Ball,A mistlike flurry of down envelops and<br>damages the target. It may also lower<br>the target's Sp. Atk.
+236,Moonlight,The user restores its own HP.<br>The amount of HP regained varies<br>with the weather.
+234,Morning Sun,The user restores its own HP.<br>The amount of HP regained varies<br>with the weather.
+426,Mud Bomb,The user launches a hard-packed<br>mud ball to attack.<br>It may also lower the target's accuracy.
+341,Mud Shot,The user attacks by hurling a blob of mud<br>at the target.<br>It also reduces the target's Speed.
+300,Mud Sport,The user covers itself with mud. It<br>weakens Electric-type moves while the<br>user is in the battle.
+330,Muddy Water,The user attacks by shooting muddy water<br>at the opposing team.<br>It may also lower the targets' accuracy.
+189,Mud-Slap,The user hurls mud in the target's face to<br>inflict damage and lower its accuracy.
+417,Nasty Plot,The user stimulates its brain by thinking<br>bad thoughts.<br>It sharply raises the user's Sp. Atk.
+363,Natural Gift,The user draws power to attack by using<br>its held Berry.<br>The Berry determines its type and power.
+267,Nature Power,An attack that makes use of nature's<br>power. Its effects vary depending on the<br>user's environment.
+302,Needle Arm,The user attacks by wildly swinging its<br>thorny arms. It may also make the<br>target flinch.
+539,Night Daze,The user lets loose a pitch-black shock<br>wave at its target. It may also lower the<br>target's accuracy.
+101,Night Shade,The user makes the target see a<br>frightening mirage. It inflicts damage<br>matching the user's level.
+400,Night Slash,The user slashes the target<br>the instant an opportunity arises.<br>Critical hits land more easily.
+171,Nightmare,A sleeping target sees a nightmare<br>that inflicts some damage every turn.
+190,Octazooka,The user attacks by spraying ink in the<br>target's face or eyes.<br>It may also lower the target's accuracy.
+316,Odor Sleuth,Enables a Ghost-type target to be hit with<br>Normal- and Fighting-type attacks. It also<br>enables an evasive target to be hit.
+466,Ominous Wind,The user blasts the target with a gust of<br>repulsive wind. It may also raise all the<br>user's stats at once.
+200,Outrage,The user rampages and attacks for two<br>to three turns.<br>It then becomes confused, however.
+315,Overheat,The user attacks the target at full power.<br>The attack's recoil harshly reduces the<br>user's Sp. Atk stat.
+220,Pain Split,The user adds its HP to the target's HP,<br>then equally shares the combined HP<br>with the target.
+6,Pay Day,Numerous coins are hurled at the<br>target to inflict damage.<br>Money is earned after the battle.
+371,Payback,If the user moves after the target,<br>this attack's power will be doubled.
+64,Peck,The target is jabbed with a sharply<br>pointed beak or horn.
+195,Perish Song,Any Pokémon that hears this song<br>faints in three turns, unless it switches<br>out of battle.
+80,Petal Dance,The user attacks the target by scattering<br>petals for two to three turns.<br>The user then becomes confused.
+42,Pin Missile,Sharp spikes are shot at the target<br>in rapid succession.<br>They hit two to five times in a row.
+365,Pluck,The user pecks the target. If the target<br>is holding a Berry, the user eats it and<br>gains its effect.
+305,Poison Fang,The user bites the target with toxic<br>fangs. It may also leave the target<br>badly poisoned.
+139,Poison Gas,A cloud of poison gas is sprayed<br>in the face of opposing Pokémon.<br>It may poison those hit.
+398,Poison Jab,The target is stabbed with a tentacle or<br>arm steeped in poison. It may also<br>poison the target.
+40,Poison Sting,The user stabs the target<br>with a poisonous stinger.<br>This may also poison the target.
+342,Poison Tail,The user hits the target with its tail.<br>It may also poison the target.<br>Critical hits land more easily.
+77,PoisonPowder,The user scatters a cloud of poisonous<br>dust on the target. It may poison<br>the target.
+1,Pound,The target is physically pounded with<br>a long tail or a foreleg, etc.
+181,Powder Snow,The user attacks with a chilling gust<br>of powdery snow.<br>It may also freeze the targets.
+408,Power Gem,The user attacks with a ray of light that<br>sparkles as if it were made of gemstones.
+471,Power Split,The user employs its psychic power to<br>average its Attack and Sp. Atk stats<br>with those of the target's.
+384,Power Swap,The user employs its psychic power to<br>switch changes to its Attack and<br>Sp. Atk with the target.
+379,Power Trick,The user employs its psychic power to<br>switch its Attack with its Defense stat.
+438,Power Whip,The user violently whirls its vines or<br>tentacles to harshly lash the target.
+217,Present,The user attacks by giving the target a<br>gift with a hidden trap. It restores<br>HP sometimes, however.
+182,Protect,It enables the user to evade all attacks.<br>Its chance of failing rises if it is used in<br>succession.
+60,Psybeam,The target is attacked with a peculiar ray.<br>It may also cause confusion.
+244,Psych Up,The user hypnotizes itself into<br>copying any stat change made<br>by the target.
+94,Psychic,The target is hit by a strong telekinetic<br>force. It may also reduce the target's<br>Sp. Def stat.
+354,Psycho Boost,The user attacks the target at full power.<br>The attack's recoil harshly reduces the<br>user's Sp. Atk stat.
+427,Psycho Cut,The user tears at the target with blades<br>formed by psychic power.<br>Critical hits land more easily.
+375,Psycho Shift,Using its psychic power of suggestion,<br>the user transfers its status problems<br>to the target.
+473,Psyshock,The user materializes an odd<br>psychic wave to attack the target.<br>This attack does physical damage.
+540,Psystrike,The user materializes an odd<br>psychic wave to attack the target.<br>This attack does physical damage.
+149,Psywave,The target is attacked with an odd <br>psychic wave.<br>The attack varies in intensity.
+386,Punishment,This attack's power increases<br>the more the target has powered<br>up with stat changes.
+228,Pursuit,An attack move that inflicts double damage<br>if used on a target that is switching out<br>of battle.
+511,Quash,The user suppresses the target and<br>makes its move go last.
+98,Quick Attack,The user lunges at the target at a speed<br>that makes it almost invisible. It is sure<br>to strike first.
+501,Quick Guard,The user protects itself and its allies<br>from priority moves. If used in<br>succession, its chance of failing rises.
+483,Quiver Dance,The user lightly performs a beautiful,<br>mystic dance. It boosts the user's<br>Sp. Atk
+99,Rage,As long as this move is in use, the power<br>of rage raises the Attack stat each<br>time the user is hit in battle.
+476,Rage Powder,The user scatters a cloud of irritating<br>powder to draw attention to itself.<br>Opponents aim only at the user.
+240,Rain Dance,The user summons a heavy rain<br>that falls for five turns,<br>powering up Water-type moves.
+229,Rapid Spin,A spin attack that can also eliminate<br>such moves as Bind, Wrap
+75,Razor Leaf,Sharp-edged leaves are launched<br>to slash at the opposing team.<br>Critical hits land more easily.
+534,Razor Shell,The user cuts its target with sharp<br>shells. This attack may also lower the<br>target's Defense stat.
+13,Razor Wind,A two-turn attack. Blades of wind hit<br>opposing Pokémon on the second turn.<br>Critical hits land more easily.
+105,Recover,Restoring its own cells, the user<br>restores its own HP by half of<br>its max HP.
+278,Recycle,The user recycles a held item that<br>has been used in battle so it can be<br>used again.
+115,Reflect,A wondrous wall of light is put up to<br>suppress damage from physical attacks<br>for five turns.
+513,Reflect Type,The user reflects the target's type,<br>making it the same type as the target.
+287,Refresh,The user rests to cure itself of a<br>poisoning, burn
+547,Relic Song,The user sings an ancient song and attacks<br>by appealing to the hearts of those<br>listening. It may also induce sleep.
+156,Rest,The user goes to sleep for two turns.<br>It fully restores the user's HP and heals<br>any status problem.
+514,Retaliate,The user gets revenge for a fainted ally.<br>If an ally fainted in the previous turn,<br>this attack's damage increases.
+216,Return,A full-power attack that grows more<br>powerful the more the user likes<br>its Trainer.
+279,Revenge,An attack move that inflicts double the<br>damage if the user has been hurt by the<br>opponent in the same turn.
+179,Reversal,An all-out attack that becomes more<br>powerful the less HP the user has.
+46,Roar,The target is scared off and replaced by<br>another Pokémon in its party. In the<br>wild, the battle ends.
+459,Roar of Time,The user blasts the target with power<br>that distorts even time.<br>The user must rest on the next turn.
+350,Rock Blast,The user hurls hard rocks at the target.<br>Two to five rocks are launched in quick<br>succession.
+431,Rock Climb,The user attacks the target by smashing<br>into it with incredible force.<br>It may also confuse the target.
+397,Rock Polish,The user polishes its body to reduce drag.<br>It can sharply raise the Speed stat.
+157,Rock Slide,Large boulders are hurled at the opposing<br>team to inflict damage. It may also make<br>the targets flinch.
+249,Rock Smash,The user attacks with a punch that can<br>shatter a rock. It may also lower the<br>target's Defense stat.
+88,Rock Throw,The user picks up and throws a small<br>rock at the target to attack.
+317,Rock Tomb,Boulders are hurled at the target. It also<br>lowers the target's Speed by preventing<br>its movement.
+439,Rock Wrecker,The user launches a huge boulder at the<br>target to attack. It must rest on the<br>next turn, however.
+272,Role Play,The user mimics the target completely,<br>copying the target's natural Ability.
+27,Rolling Kick,The user lashes out with a quick, spinning<br>kick. It may also make the target flinch.
+205,Rollout,The user continually rolls into the target<br>over five turns. It becomes stronger<br>each time it hits.
+355,Roost,The user lands and rests its body.<br>It restores the user's HP by up to<br>half of its max HP.
+496,Round,The user attacks the target with a song.<br>Others can join in the Round and make<br>the attack do greater damage.
+221,Sacred Fire,The target is razed with a mystical fire<br>of great intensity. It may also leave the<br>target with a burn.
+533,Sacred Sword,The user attacks by slicing with its long<br>horns. The target's stat changes<br>don't affect this attack's damage.
+219,Safeguard,The user creates a protective field that<br>prevents status problems for five turns.
+328,Sand Tomb,The user traps the target inside a harshly<br>raging sandstorm for four to five turns.
+28,Sand-Attack,Sand is hurled in the target's face,<br>reducing its accuracy.
+201,Sandstorm,A five-turn sandstorm is summoned<br>to hurt all combatants except the<br>Rock, Ground
+503,Scald,The user shoots boiling hot water at<br>its target. It may also leave the target<br>with a burn.
+184,Scary Face,The user frightens the target with a scary<br>face to harshly reduce its Speed stat.
+10,Scratch,Hard, pointed
+103,Screech,An earsplitting screech harshly reduces<br>the target's Defense stat.
+545,Searing Shot,An inferno of scarlet flames torches<br>everything around the user. It may<br>leave targets with a burn.
+290,Secret Power,The user attacks the target with a<br>secret power. Its added effects vary<br>depending on the user's environment.
+548,Secret Sword,The user cuts with its long horn. The odd<br>power contained in the horn does physical<br>damage to the target.
+402,Seed Bomb,The user slams a barrage of hard-shelled<br>seeds down on the target from above.
+465,Seed Flare,The user emits a shock wave from<br>its body to attack its target. It may<br>harshly lower the target's Sp. Def.
+69,Seismic Toss,The target is thrown using the power of<br>gravity. It inflicts damage equal to<br>the user's level.
+120,Selfdestruct,The user attacks everything around it<br>by causing an explosion.<br>The user faints upon using this move.
+247,Shadow Ball,The user hurls a shadowy blob at the<br>target. It may also lower the target's<br>Sp. Def stat.
+421,Shadow Claw,The user slashes with a sharp claw made<br>from shadows.<br>Critical hits land more easily.
+467,Shadow Force,The user disappears, then strikes the<br>target on the second turn.<br>It hits even if the target protects itself.
+325,Shadow Punch,The user throws a punch from the shadows.<br>The punch lands without fail.
+425,Shadow Sneak,The user extends its shadow and attacks<br>the target from behind.<br>This move always goes first.
+159,Sharpen,The user reduces its polygon count to<br>make itself more jagged, raising the<br>Attack stat.
+329,Sheer Cold,The target is attacked with a blast of<br>absolute-zero cold.<br>The target instantly faints if it hits.
+504,Shell Smash,The user breaks its shell, lowering its<br>Defense and Sp. Def stats but sharply<br>raising Attack
+508,Shift Gear,The user rotates its gears, raising its<br>Attack and sharply raising its Speed.
+351,Shock Wave,The user strikes the target with a quick<br>jolt of electricity.<br>This attack cannot be evaded.
+324,Signal Beam,The user attacks with a sinister beam of<br>light. It may also confuse the target.
+318,Silver Wind,The target is attacked with powdery<br>scales blown by wind.<br>It may also raise all the user's stats.
+493,Simple Beam,The user's mysterious psychic wave<br>changes the target's Ability to Simple.
+47,Sing,A soothing lullaby is sung in a calming<br>voice that puts the target into a deep<br>slumber.
+166,Sketch,It enables the user to permanently learn<br>the move last used by the target.<br>Once used, Sketch disappears.
+285,Skill Swap,The user employs its psychic power to<br>exchange Abilities with the target.
+130,Skull Bash,The user tucks in its head to raise its<br>Defense in the first turn, then<br>rams the target on the next turn.
+143,Sky Attack,A second-turn attack move where<br>critical hits land more easily.<br>It may also make the target flinch.
+507,Sky Drop,The user takes the target into the sky,<br>then drops it during the next turn.<br>The target cannot attack while in the sky.
+327,Sky Uppercut,The user attacks the target with an<br>uppercut thrown skyward with force.
+303,Slack Off,The user slacks off, restoring its own HP<br>by up to half of its maximum HP.
+21,Slam,The target is slammed with a long tail,<br>vines
+163,Slash,The target is attacked with a slash<br>of claws or blades.<br>Critical hits land more easily.
+79,Sleep Powder,The user scatters a big cloud<br>of sleep-inducing dust<br>around the target.
+214,Sleep Talk,While it is asleep, the user randomly uses<br>one of the moves it knows.
+124,Sludge,Unsanitary sludge is hurled at the target.<br>It may also poison the target.
+188,Sludge Bomb,Unsanitary sludge is hurled at the target.<br>It may also poison the target.
+482,Sludge Wave,It swamps the area around the user with a<br>giant sludge wave.<br>It may also poison those hit.
+479,Smack Down,The user throws a stone or projectile to<br>attack an opponent. A flying Pokémon will<br>fall to the ground when hit.
+265,SmellingSalt,This attack inflicts double damage on a<br>target with paralysis. It also cures the<br>target's paralysis, however.
+123,Smog,The target is attacked with a<br>discharge of filthy gases.<br>It may also poison the target.
+108,SmokeScreen,The user releases an obscuring cloud<br>of smoke or ink. It reduces the<br>target's accuracy.
+555,Snarl,The user yells as if it is ranting about<br>something, making the target's Sp. Atk<br>stat decrease.
+289,Snatch,The user steals the effects of any<br>healing or stat-changing move the<br>opponent attempts to use.
+173,Snore,An attack that can be used only if the<br>user is asleep. The harsh noise may also<br>make the target flinch.
+487,Soak,The user shoots a torrent of water<br>at the target and changes<br>the target's type to Water.
+135,Softboiled,The user restores its own HP<br>by up to half of its maximum HP.<br>May also be used in the field to heal HP.
+76,SolarBeam,A two-turn attack. The user gathers<br>light, then blasts a bundled beam on the<br>second turn.
+49,SonicBoom,The target is hit with a destructive shock<br>wave that always inflicts 20 HP damage.
+460,Spacial Rend,The user tears the target along with the<br>space around it.<br>Critical hits land more easily.
+209,Spark,The user throws an electrically charged<br>tackle at the target. It may also leave<br>the target with paralysis.
+169,Spider Web,The user ensnares the target with thin,<br>gooey silk so it can't flee from battle.
+131,Spike Cannon,Sharp spikes are shot at the target<br>in rapid succession.<br>They hit two to five times in a row.
+191,Spikes,The user lays a trap of spikes at the<br>opposing team's feet. The trap hurts<br>Pokémon that switch into battle.
+255,Spit Up,The power stored using the move Stockpile<br>is released at once in an attack. The more<br>power is stored, the greater the damage.
+180,Spite,The user unleashes its grudge on the move<br>last used by the target by cutting 4 PP<br>from it.
+150,Splash,The user just flops and splashes around<br>to no effect at all...
+147,Spore,The user scatters bursts of spores<br>that induce sleep.
+446,Stealth Rock,The user lays a trap of levitating stones<br>around the opponent's team. The trap<br>hurts opponents that switch into battle.
+537,Steamroller,The user crushes its targets by rolling<br>over them with its rolled-up body.<br>This attack may make the target flinch.
+211,Steel Wing,The target is hit with wings of steel.<br>It may also raise the user's Defense stat.
+254,Stockpile,The user charges up power and raises<br>both its Defense and Sp. Def. The move<br>can be used three times.
+23,Stomp,The target is stomped with a big foot.<br>It may also make the target flinch.
+444,Stone Edge,The user stabs the foe with<br>sharpened stones from below.<br>It has a high critical-hit ratio.
+500,Stored Power,The user attacks the target with stored<br>power. The more the user's stats are<br>raised, the greater the damage.
+480,Storm Throw,The user strikes the target with a fierce<br>blow. This attack always results in a<br>critical hit.
+70,Strength,The target is slugged with a punch thrown<br>at maximum power. It can also be used<br>to move heavy boulders.
+81,String Shot,The targets are bound with silk blown<br>from the user's mouth. This silk reduces<br>the targets' Speed stat.
+165,Struggle,An attack that is used in desperation<br>only if the user has no PP. It also hurts<br>the user slightly.
+522,Struggle Bug,While resisting, the user attacks the<br>opposing Pokémon. The targets'<br>Sp. Atk stat is reduced.
+78,Stun Spore,The user scatters a cloud of paralyzing<br>powder. It may leave the target<br>with paralysis.
+66,Submission,The user grabs the target and recklessly<br>dives for the ground. It also hurts the<br>user slightly.
+164,Substitute,The user makes a copy of itself using<br>some of its HP.<br>The copy serves as the user's decoy.
+389,Sucker Punch,This move enables the user to attack<br>first. It fails if the target is not<br>readying an attack, however.
+241,Sunny Day,The user intensifies the sun for<br>five turns, powering up<br>Fire-type moves.
+162,Super Fang,The user chomps hard on the<br>target with its sharp front fangs.<br>It cuts the target's HP to half.
+276,Superpower,The user attacks the target with great<br>power. However, it also lowers the<br>user's Attack and Defense.
+48,Supersonic,The user generates odd sound waves from<br>its body. It may confuse the target.
+57,Surf,It swamps the area around the user<br>with a giant wave.<br>It can also be used for crossing water.
+207,Swagger,The user enrages and confuses the target.<br>However, it also sharply raises the<br>target's Attack stat.
+256,Swallow,The power stored using the move Stockpile<br>is absorbed by the user to heal its HP.<br>Storing more power heals more HP.
+186,Sweet Kiss,The user kisses the target with a sweet,<br>angelic cuteness that causes confusion.
+230,Sweet Scent,A sweet scent that lowers the opposing<br>team's evasiveness. It also lures wild<br>Pokémon if used in grass, etc.
+129,Swift,Star-shaped rays are shot at the opposing<br>team. This attack never misses.
+415,Switcheroo,The user trades held items with the target<br>faster than the eye can follow.
+14,Swords Dance,A frenetic dance to uplift the fighting<br>spirit. It sharply raises the user's<br>Attack stat.
+485,Synchronoise,Using an odd shock wave, the user<br>inflicts damage on any Pokémon of the same<br>type in the area around it.
+235,Synthesis,The user restores its own HP.<br>The amount of HP regained varies<br>with the weather.
+33,Tackle,A physical attack in which the user<br>charges and slams into the target<br>with its whole body.
+294,Tail Glow,The user stares at flashing lights to<br>focus its mind, drastically raising its<br>Sp. Atk stat.
+541,Tail Slap,The user attacks by striking the target<br>with its hard tail. It hits the target two<br>to five times in a row.
+39,Tail Whip,The user wags its tail cutely, making<br>opposing Pokémon less wary and<br>lowering their Defense stat.
+366,Tailwind,The user whips up a turbulent whirlwind<br>that ups the Speed of all party Pokémon<br>for four turns.
+36,Take Down,A reckless, full-body charge attack for<br>slamming into the target.<br>It also damages the user a little.
+269,Taunt,The target is taunted into a rage that<br>allows it to use only attack moves<br>for three turns.
+546,Techno Blast,The user fires a beam of light at<br>its target. The type changes depending<br>on the Drive the user holds.
+298,Teeter Dance,The user performs a wobbly dance that<br>confuses the Pokémon around it.
+477,Telekinesis,The user makes the target float with its<br>psychic power. The target is easier to<br>hit for three turns.
+100,Teleport,Use it to flee from any wild Pokémon.<br>It can also warp to the last Pokémon<br>Center visited.
+168,Thief,The user attacks and steals the target's<br>held item simultaneously.<br>It can't steal if the user holds an item.
+37,Thrash,The user rampages and attacks for two<br>to three turns. It then becomes<br>confused, however.
+87,Thunder,A wicked thunderbolt is dropped<br>on the target to inflict damage. It may<br>also leave the target with paralysis.
+422,Thunder Fang,The user bites with electrified fangs.<br>It may also make the target flinch or<br>leave it with paralysis.
+86,Thunder Wave,A weak electric charge is launched at<br>the target. It causes paralysis if it hits.
+85,Thunderbolt,A strong electric blast is loosed at the<br>target. It may also leave the target<br>with paralysis.
+9,ThunderPunch,The target is punched with an electrified<br>fist. It may also leave the target<br>with paralysis.
+84,ThunderShock,A jolt of electricity is hurled<br>at the target to inflict damage. It may<br>also leave the target with paralysis.
+321,Tickle,The user tickles the target into laughing,<br>reducing its Attack and Defense stats.
+259,Torment,The user torments and enrages the<br>target, making it incapable of using<br>the same move twice in a row.
+92,Toxic,A move that leaves the target<br>badly poisoned.<br>Its poison damage worsens every turn.
+390,Toxic Spikes,The user lays a trap of poison spikes at<br>the opponent's feet. They poison<br>opponents that switch into battle.
+144,Transform,The user transforms into a copy of the<br>target right down to having<br>the same move set.
+161,Tri Attack,The user strikes with a simultaneous<br>three-beam attack. May also burn, freeze
+271,Trick,The user catches the target off guard<br>and swaps its held item with its own.
+433,Trick Room,The user creates a bizarre area in which<br>slower Pokémon get to move first for<br>five turns.
+167,Triple Kick,A consecutive three-kick attack that<br>becomes more powerful with each <br>successive hit.
+376,Trump Card,The fewer PP this move has, the greater<br>its attack power.
+41,Twineedle,The user damages the target twice in<br>succession by jabbing it with two spikes.<br>It may also poison the target.
+239,Twister,The user whips up a vicious tornado<br>to tear at the opposing team.<br>It may also make targets flinch.
+253,Uproar,The user attacks in an uproar for<br>three turns. Over that time,<br>no one can fall asleep.
+369,U-turn,After making its attack, the user<br>rushes back to switch places with<br>a party Pokémon in waiting.
+410,Vacuum Wave,The user whirls its fists to send a wave<br>of pure vacuum at the target. This move<br>always goes first.
+557,V-create,With a hot flame on its forehead, the user<br>hurls itself at its target. It lowers the<br>user's Defense
+474,Venoshock,The user drenches the target in a special<br>poisonous liquid. Its power is doubled<br>if the target is poisoned.
+11,ViceGrip,The target is gripped and squeezed from<br>both sides to inflict damage.
+22,Vine Whip,The target is struck with slender,<br>whiplike vines to inflict damage.
+233,Vital Throw,The user attacks last.<br>In return, this throw move is<br>guaranteed not to miss.
+521,Volt Switch,After making its attack, the user<br>rushes back to switch places with<br>a party Pokémon in waiting.
+344,Volt Tackle,The user electrifies itself, then charges. <br>It causes considerable damage to the user<br>and may leave the target with paralysis.
+358,Wake-Up Slap,This attack inflicts big damage on a<br>sleeping target. It also wakes the target<br>up, however.
+55,Water Gun,The target is blasted with a<br>forceful shot of water.
+518,Water Pledge,A column of water strikes the target. When<br>combined with its fire equivalent, the<br>damage increases and a rainbow appears.
+352,Water Pulse,The user attacks the target with<br>a pulsing blast of water.<br>It may also confuse the target.
+346,Water Sport,The user soaks itself with water. The move<br>weakens Fire-type moves while the user<br>is in the battle.
+323,Water Spout,The user spouts water to damage the<br>opposing team. The lower the user's HP,<br>the less powerful it becomes.
+127,Waterfall,The user charges at the target<br>and may make it flinch.<br>It can also be used to climb a waterfall.
+311,Weather Ball,An attack move that varies in power and<br>type depending on the weather.
+250,Whirlpool,Traps foes in a violent swirling<br>whirlpool for four to five turns.
+18,Whirlwind,The target is blown away, to be replaced<br>by another Pokémon in its party. In the<br>wild
+469,Wide Guard,The user and its allies are protected from<br>wide-ranging attacks for one turn. If used<br>in succession, its chance of failing rises.
+528,Wild Charge,The user shrouds itself in electricity<br>and smashes into its target.<br>It also damages the user a little.
+261,Will-O-Wisp,The user shoots a sinister, bluish-white<br>flame at the target to inflict a burn.
+17,Wing Attack,The target is struck with large, imposing<br>wings spread wide to inflict damage.
+273,Wish,One turn after this move is used,<br>the target's HP is restored by<br>half the user's maximum HP.
+110,Withdraw,The user withdraws its body into its hard<br>shell, raising its Defense stat.
+472,Wonder Room,The user creates a bizarre area in which<br>Pokémon's Defense and Sp. Def<br>stats are swapped for five turns.
+452,Wood Hammer,The user slams its rugged body into the<br>target to attack. The user also sustains<br>serious damage.
+526,Work Up,The user is roused, and its Attack<br>and Sp. Atk stats increase.
+388,Worry Seed,A seed that causes worry is planted on<br>the target. It prevents sleep by making<br>its Ability Insomnia.
+35,Wrap,A long body or vines are used to wrap and<br>squeeze the target for four to five turns.
+378,Wring Out,The user powerfully wrings the target.<br>The more HP the target has, the greater<br>this attack's power.
+404,X-Scissor,The user slashes at the target by<br>crossing its scythes or claws as if<br>they were a pair of scissors.
+281,Yawn,The user lets loose a huge yawn that<br>lulls the target into falling asleep<br>on the next turn.
+192,Zap Cannon,The user fires an electric blast like a<br>cannon to inflict damage and<br>cause paralysis.
+428,Zen Headbutt,The user focuses its willpower to its head<br>and attacks the target.<br>It may also make the target flinch.

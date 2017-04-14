@@ -1,0 +1,14 @@
+﻿0,DMG
+1,No DMG | Inflict status
+2,No DMG | -targetstat/+userstat
+3,No DMG | heals user
+4,DMG | Inflict status
+5,No DMG | STATUS | +targetstat
+6,DMG | -targetstat
+7,DMG | +userstat
+8,DMG | absorbs dmg & heals
+9,One-hit KO
+10,Effect on the whole field
+11,Effect on one side of the field
+12,Forces target to switch out
+13,Unique effect
